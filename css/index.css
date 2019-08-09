@@ -70,6 +70,14 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+header {
+    margin: 20px 0px 30px 0px;
+}
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
 
 .top-content {
     display: flex;
