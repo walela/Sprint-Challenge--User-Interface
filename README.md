@@ -34,7 +34,9 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-semantic HTML is HTML markup that describes the underlying kind of content it is displaying, rather than just it's appearance. so for example using <header> and <section> tags to describe the appropriate page content rather than just generic <div>s. It is helpful for search engines and accessibility purposes such as screen readers.
+semantic HTML is HTML markup that describes the underlying kind of content it is displaying, rather than just it's appearance. so for 
+example using <header> and <section> tags to describe the appropriate page content rather than just generic <div>s. It is helpful for 
+search engines and accessibility purposes such as screen readers.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
@@ -58,6 +60,7 @@ git facilitates collaboration among developers by keeping a traceable record of 
 change in the source code. it also facilitates developers' access to a single central repository 
 which they can get as a local copy. Furthermore, different developers can work on different branches
 independently and merge it to the main branch if necessary.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
