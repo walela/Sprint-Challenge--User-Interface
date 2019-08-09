@@ -167,7 +167,7 @@ footer nav a {
 .about {
     padding: 5px;
     margin-bottom: 20px;
-    border-bottom: 1px dotted black;
+    border-bottom: 1px dashed black;
 }
 .about-content {
     display: flex;
@@ -178,7 +178,7 @@ footer nav a {
     width:48%;
     margin: 0 1%;
     margin-bottom: 20px; 
-    border-bottom: 1px dotted grey; 
+    border-bottom: 1px dashed grey; 
 
 }
 .content-container h2, .prompt h2 {
