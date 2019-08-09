@@ -77,6 +77,7 @@ header nav {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
+    font-size: 14px;
 }
 nav a {
     width: 15%;
@@ -160,4 +161,16 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+/* about page-specific styles */
+.about-content {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.content-container {
+    width:48%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
 }
