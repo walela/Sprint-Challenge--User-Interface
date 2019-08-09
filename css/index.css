@@ -78,6 +78,15 @@ header nav {
     justify-content: space-between;
     align-items: flex-end;
 }
+nav a {
+    width: 15%;
+    padding: 0 2%;
+    text-decoration: none;
+    color: black;
+}
+.banner {
+    margin-bottom: 20px;
+}
 
 .top-content {
     display: flex;
